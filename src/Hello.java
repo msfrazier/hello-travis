@@ -9,9 +9,9 @@ public class Hello {
 		}
 	}
 	static void defaultMessage() {
-		System.out.println("Hlo, Jay.");
+		System.out.println("Hello, Jay.");
 	}
 	static void personalizedMessage(String person) {
-		System.out.println("Hlo, " + person + ".");
+		System.out.println("Hello, " + person + ".");
 	}
 }
